@@ -10,9 +10,9 @@ The POST endpoint does the following:
 - The message looks like the following:
  {
  “push_message”: “<message text>”,
- “sender_id”: <UUID>
+ “sender_id”: <UUID_>
  }
 - The sender_id is the UUID from the header.
 The browser shows all incomming messages in the format:
-<UUID>: <message_text>
+<UUID_>: <message_text>
 

@@ -16,3 +16,6 @@ The POST endpoint does the following:
 The browser shows all incomming messages in the format:
 <UUID_>: <message_text>
 
+#Installation
+Build the war and deploy it on a web application server.
+Project has been tested using Java 7 and Tomcat server 7.0.
